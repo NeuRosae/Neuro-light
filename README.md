@@ -1,9 +1,18 @@
-- 👋 Hi, I’m Rosae!
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning Python, taking my second Python class and CSP
-- 💞️ I’m looking to collaborate on: nothing atm
-- 📫 How to reach me: Discord (neurosae, DMs open)
-- 😄 Pronouns: She/Her
+Hi, I'm Rosae! (she/any)
+
+I'm a Junior in high school, currently learning Python, and plan to start learning Java and either C++ or C#.
+I begun learning Python as a class at my school in Jan of 2024, and I'm a quick learner, as I'm already comfortable with modules such as Pygame.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Want to contact me? Here's a variety of options:
+
+Discord: neurosae
+
+Email: greentrex07@icloud.com
+
+LinkedIn: https://www.linkedin.com/in/rosae-balow-a73393302/
+
 
 <!---
 Neuro-light/Neuro-light is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
