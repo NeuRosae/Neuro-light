@@ -7,8 +7,6 @@ I begun learning Python as a class at my school in Jan of 2024, and I'm a quick 
 
 Want to contact me? Here's a variety of options:
 
-Discord: neurosae
-
 Email: greentrex07@icloud.com
 
 LinkedIn: https://www.linkedin.com/in/rosae-balow-a73393302/
